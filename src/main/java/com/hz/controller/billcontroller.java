@@ -29,7 +29,7 @@ public class billcontroller {
  /*       PageHelper.startPage(pn,5);
         List<bill> list=billService.selectInformation();
         PageInfo page=new PageInfo(list,5);
-        model.addAttribute("pageInfo",page);
+        model.addAttribute("pageInfo",page);//
 
         return "order";*/
     }
